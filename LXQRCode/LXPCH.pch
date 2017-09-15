@@ -1,0 +1,18 @@
+//
+//  LXPCH.pch
+//  LXQRCode
+//
+//  Created by zhongzhi on 2017/9/15.
+//  Copyright © 2017年 漫漫. All rights reserved.
+//
+
+#ifndef LXPCH_pch
+#define LXPCH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "UIView+Frame.h"
+#import "UIColor+Expanded.h"
+#import "UIImage+colorImage.h"
+#import "UIImage+LXQRCode.h"
+#endif /* LXPCH_pch */
