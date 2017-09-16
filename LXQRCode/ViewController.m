@@ -75,14 +75,14 @@
 }
 -(NSArray *)dataA{
     if (!_dataA) {
-        _dataA = @[@"二维码生成",@"图片处理分类"];
+        _dataA = @[@"二维码生成",@"图片处理分类",@"二维码扫描"];
     }
     return _dataA;
 }
 
 -(NSArray *)viewControllers{
     if (!_viewControllers) {
-        _viewControllers = @[@"LXQRController",@"LXPageDealController"];
+        _viewControllers = @[@"LXQRController",@"LXPageDealController",@"LXScanningController"];
     }
     return _viewControllers;
 }

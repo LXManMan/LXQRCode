@@ -29,6 +29,31 @@
 		946756051F6BCFF700915C55 /* LXCustomRadiousBorderController.m in Sources */ = {isa = PBXBuildFile; fileRef = 946756041F6BCFF700915C55 /* LXCustomRadiousBorderController.m */; };
 		946756081F6BD06800915C55 /* LXCircleBorderController.m in Sources */ = {isa = PBXBuildFile; fileRef = 946756071F6BD06800915C55 /* LXCircleBorderController.m */; };
 		9467560B1F6BD07400915C55 /* LXWaterImageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9467560A1F6BD07400915C55 /* LXWaterImageController.m */; };
+		94CF6B5F1F6CCB3A0075FDF9 /* UIImage+ImageSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B4F1F6CCB3A0075FDF9 /* UIImage+ImageSize.m */; };
+		94CF6B601F6CCB3A0075FDF9 /* SGQRCode.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 94CF6B501F6CCB3A0075FDF9 /* SGQRCode.bundle */; };
+		94CF6B611F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B531F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.m */; };
+		94CF6B621F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B551F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.m */; };
+		94CF6B631F6CCB3A0075FDF9 /* SGQRCodeHelperTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B571F6CCB3A0075FDF9 /* SGQRCodeHelperTool.m */; };
+		94CF6B641F6CCB3A0075FDF9 /* SGQRCodeScanManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B591F6CCB3A0075FDF9 /* SGQRCodeScanManager.m */; };
+		94CF6B651F6CCB3A0075FDF9 /* SGQRCodeScanningView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B5B1F6CCB3A0075FDF9 /* SGQRCodeScanningView.m */; };
+		94CF6B661F6CCB3A0075FDF9 /* SGWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B5E1F6CCB3A0075FDF9 /* SGWebView.m */; };
+		94CF6B851F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B691F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.m */; };
+		94CF6B861F6CCB6F0075FDF9 /* TZAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B6B1F6CCB6F0075FDF9 /* TZAssetCell.m */; };
+		94CF6B871F6CCB6F0075FDF9 /* TZAssetModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B6D1F6CCB6F0075FDF9 /* TZAssetModel.m */; };
+		94CF6B881F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B6F1F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.m */; };
+		94CF6B891F6CCB6F0075FDF9 /* TZImageCropManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B711F6CCB6F0075FDF9 /* TZImageCropManager.m */; };
+		94CF6B8A1F6CCB6F0075FDF9 /* TZImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B731F6CCB6F0075FDF9 /* TZImageManager.m */; };
+		94CF6B8B1F6CCB6F0075FDF9 /* TZImagePickerController.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 94CF6B741F6CCB6F0075FDF9 /* TZImagePickerController.bundle */; };
+		94CF6B8C1F6CCB6F0075FDF9 /* TZImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B761F6CCB6F0075FDF9 /* TZImagePickerController.m */; };
+		94CF6B8D1F6CCB6F0075FDF9 /* TZLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B781F6CCB6F0075FDF9 /* TZLocationManager.m */; };
+		94CF6B8E1F6CCB6F0075FDF9 /* TZPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B7A1F6CCB6F0075FDF9 /* TZPhotoPickerController.m */; };
+		94CF6B8F1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B7C1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.m */; };
+		94CF6B901F6CCB6F0075FDF9 /* TZPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B7E1F6CCB6F0075FDF9 /* TZPhotoPreviewController.m */; };
+		94CF6B911F6CCB6F0075FDF9 /* TZProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B801F6CCB6F0075FDF9 /* TZProgressView.m */; };
+		94CF6B921F6CCB6F0075FDF9 /* TZVideoPlayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B821F6CCB6F0075FDF9 /* TZVideoPlayerController.m */; };
+		94CF6B931F6CCB6F0075FDF9 /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B841F6CCB6F0075FDF9 /* UIView+Layout.m */; };
+		94CF6B991F6CCB9A0075FDF9 /* LXScanningController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B961F6CCB9A0075FDF9 /* LXScanningController.m */; };
+		94CF6B9A1F6CCB9A0075FDF9 /* ScanSuccessJumpVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 94CF6B981F6CCB9A0075FDF9 /* ScanSuccessJumpVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +119,55 @@
 		946756071F6BD06800915C55 /* LXCircleBorderController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXCircleBorderController.m; sourceTree = "<group>"; };
 		946756091F6BD07400915C55 /* LXWaterImageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXWaterImageController.h; sourceTree = "<group>"; };
 		9467560A1F6BD07400915C55 /* LXWaterImageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXWaterImageController.m; sourceTree = "<group>"; };
+		94CF6B4E1F6CCB3A0075FDF9 /* UIImage+ImageSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageSize.h"; sourceTree = "<group>"; };
+		94CF6B4F1F6CCB3A0075FDF9 /* UIImage+ImageSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageSize.m"; sourceTree = "<group>"; };
+		94CF6B501F6CCB3A0075FDF9 /* SGQRCode.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SGQRCode.bundle; sourceTree = "<group>"; };
+		94CF6B511F6CCB3A0075FDF9 /* SGQRCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGQRCode.h; sourceTree = "<group>"; };
+		94CF6B521F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGQRCodeAlbumManager.h; sourceTree = "<group>"; };
+		94CF6B531F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGQRCodeAlbumManager.m; sourceTree = "<group>"; };
+		94CF6B541F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGQRCodeGenerateManager.h; sourceTree = "<group>"; };
+		94CF6B551F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGQRCodeGenerateManager.m; sourceTree = "<group>"; };
+		94CF6B561F6CCB3A0075FDF9 /* SGQRCodeHelperTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGQRCodeHelperTool.h; sourceTree = "<group>"; };
+		94CF6B571F6CCB3A0075FDF9 /* SGQRCodeHelperTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGQRCodeHelperTool.m; sourceTree = "<group>"; };
+		94CF6B581F6CCB3A0075FDF9 /* SGQRCodeScanManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGQRCodeScanManager.h; sourceTree = "<group>"; };
+		94CF6B591F6CCB3A0075FDF9 /* SGQRCodeScanManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGQRCodeScanManager.m; sourceTree = "<group>"; };
+		94CF6B5A1F6CCB3A0075FDF9 /* SGQRCodeScanningView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGQRCodeScanningView.h; sourceTree = "<group>"; };
+		94CF6B5B1F6CCB3A0075FDF9 /* SGQRCodeScanningView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGQRCodeScanningView.m; sourceTree = "<group>"; };
+		94CF6B5D1F6CCB3A0075FDF9 /* SGWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGWebView.h; sourceTree = "<group>"; };
+		94CF6B5E1F6CCB3A0075FDF9 /* SGWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGWebView.m; sourceTree = "<group>"; };
+		94CF6B681F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+TZImagePicker.h"; sourceTree = "<group>"; };
+		94CF6B691F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+TZImagePicker.m"; sourceTree = "<group>"; };
+		94CF6B6A1F6CCB6F0075FDF9 /* TZAssetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetCell.h; sourceTree = "<group>"; };
+		94CF6B6B1F6CCB6F0075FDF9 /* TZAssetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetCell.m; sourceTree = "<group>"; };
+		94CF6B6C1F6CCB6F0075FDF9 /* TZAssetModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZAssetModel.h; sourceTree = "<group>"; };
+		94CF6B6D1F6CCB6F0075FDF9 /* TZAssetModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZAssetModel.m; sourceTree = "<group>"; };
+		94CF6B6E1F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZGifPhotoPreviewController.h; sourceTree = "<group>"; };
+		94CF6B6F1F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZGifPhotoPreviewController.m; sourceTree = "<group>"; };
+		94CF6B701F6CCB6F0075FDF9 /* TZImageCropManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageCropManager.h; sourceTree = "<group>"; };
+		94CF6B711F6CCB6F0075FDF9 /* TZImageCropManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageCropManager.m; sourceTree = "<group>"; };
+		94CF6B721F6CCB6F0075FDF9 /* TZImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImageManager.h; sourceTree = "<group>"; };
+		94CF6B731F6CCB6F0075FDF9 /* TZImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImageManager.m; sourceTree = "<group>"; };
+		94CF6B741F6CCB6F0075FDF9 /* TZImagePickerController.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TZImagePickerController.bundle; sourceTree = "<group>"; };
+		94CF6B751F6CCB6F0075FDF9 /* TZImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZImagePickerController.h; sourceTree = "<group>"; };
+		94CF6B761F6CCB6F0075FDF9 /* TZImagePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZImagePickerController.m; sourceTree = "<group>"; };
+		94CF6B771F6CCB6F0075FDF9 /* TZLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZLocationManager.h; sourceTree = "<group>"; };
+		94CF6B781F6CCB6F0075FDF9 /* TZLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZLocationManager.m; sourceTree = "<group>"; };
+		94CF6B791F6CCB6F0075FDF9 /* TZPhotoPickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPickerController.h; sourceTree = "<group>"; };
+		94CF6B7A1F6CCB6F0075FDF9 /* TZPhotoPickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPickerController.m; sourceTree = "<group>"; };
+		94CF6B7B1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewCell.h; sourceTree = "<group>"; };
+		94CF6B7C1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewCell.m; sourceTree = "<group>"; };
+		94CF6B7D1F6CCB6F0075FDF9 /* TZPhotoPreviewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZPhotoPreviewController.h; sourceTree = "<group>"; };
+		94CF6B7E1F6CCB6F0075FDF9 /* TZPhotoPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZPhotoPreviewController.m; sourceTree = "<group>"; };
+		94CF6B7F1F6CCB6F0075FDF9 /* TZProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZProgressView.h; sourceTree = "<group>"; };
+		94CF6B801F6CCB6F0075FDF9 /* TZProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZProgressView.m; sourceTree = "<group>"; };
+		94CF6B811F6CCB6F0075FDF9 /* TZVideoPlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZVideoPlayerController.h; sourceTree = "<group>"; };
+		94CF6B821F6CCB6F0075FDF9 /* TZVideoPlayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZVideoPlayerController.m; sourceTree = "<group>"; };
+		94CF6B831F6CCB6F0075FDF9 /* UIView+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Layout.h"; sourceTree = "<group>"; };
+		94CF6B841F6CCB6F0075FDF9 /* UIView+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
+		94CF6B951F6CCB9A0075FDF9 /* LXScanningController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXScanningController.h; sourceTree = "<group>"; };
+		94CF6B961F6CCB9A0075FDF9 /* LXScanningController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXScanningController.m; sourceTree = "<group>"; };
+		94CF6B971F6CCB9A0075FDF9 /* ScanSuccessJumpVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanSuccessJumpVC.h; sourceTree = "<group>"; };
+		94CF6B981F6CCB9A0075FDF9 /* ScanSuccessJumpVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanSuccessJumpVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,12 +218,14 @@
 		9400B3181F6A7A10003A67B7 /* LXQRCode */ = {
 			isa = PBXGroup;
 			children = (
+				94CF6B4C1F6CCB3A0075FDF9 /* SGQRCode */,
 				9400B31C1F6A7A10003A67B7 /* AppDelegate.h */,
 				9400B31D1F6A7A10003A67B7 /* AppDelegate.m */,
 				9400B31F1F6A7A10003A67B7 /* ViewController.h */,
 				9400B3201F6A7A10003A67B7 /* ViewController.m */,
 				946755ED1F6BCBD600915C55 /* LXBasicController.h */,
 				946755EE1F6BCBD600915C55 /* LXBasicController.m */,
+				94CF6B941F6CCB9A0075FDF9 /* 二维码扫描 */,
 				946755F01F6BCC0100915C55 /* 图片处理分类 */,
 				946755EC1F6BCBC000915C55 /* 二维码 */,
 				946755E81F6BA88600915C55 /* Category */,
@@ -202,6 +278,7 @@
 		946755E81F6BA88600915C55 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				94CF6B671F6CCB6F0075FDF9 /* TZImagePickerController */,
 				9400B3501F6A82D9003A67B7 /* UIImage+colorImage.h */,
 				9400B3511F6A82D9003A67B7 /* UIImage+colorImage.m */,
 				9400B3531F6A82DF003A67B7 /* UIColor+Expanded.h */,
@@ -242,6 +319,92 @@
 				9467560A1F6BD07400915C55 /* LXWaterImageController.m */,
 			);
 			path = "图片处理分类";
+			sourceTree = "<group>";
+		};
+		94CF6B4C1F6CCB3A0075FDF9 /* SGQRCode */ = {
+			isa = PBXGroup;
+			children = (
+				94CF6B4D1F6CCB3A0075FDF9 /* Category */,
+				94CF6B501F6CCB3A0075FDF9 /* SGQRCode.bundle */,
+				94CF6B511F6CCB3A0075FDF9 /* SGQRCode.h */,
+				94CF6B521F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.h */,
+				94CF6B531F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.m */,
+				94CF6B541F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.h */,
+				94CF6B551F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.m */,
+				94CF6B561F6CCB3A0075FDF9 /* SGQRCodeHelperTool.h */,
+				94CF6B571F6CCB3A0075FDF9 /* SGQRCodeHelperTool.m */,
+				94CF6B581F6CCB3A0075FDF9 /* SGQRCodeScanManager.h */,
+				94CF6B591F6CCB3A0075FDF9 /* SGQRCodeScanManager.m */,
+				94CF6B5A1F6CCB3A0075FDF9 /* SGQRCodeScanningView.h */,
+				94CF6B5B1F6CCB3A0075FDF9 /* SGQRCodeScanningView.m */,
+				94CF6B5C1F6CCB3A0075FDF9 /* View */,
+			);
+			path = SGQRCode;
+			sourceTree = "<group>";
+		};
+		94CF6B4D1F6CCB3A0075FDF9 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				94CF6B4E1F6CCB3A0075FDF9 /* UIImage+ImageSize.h */,
+				94CF6B4F1F6CCB3A0075FDF9 /* UIImage+ImageSize.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		94CF6B5C1F6CCB3A0075FDF9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				94CF6B5D1F6CCB3A0075FDF9 /* SGWebView.h */,
+				94CF6B5E1F6CCB3A0075FDF9 /* SGWebView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		94CF6B671F6CCB6F0075FDF9 /* TZImagePickerController */ = {
+			isa = PBXGroup;
+			children = (
+				94CF6B681F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.h */,
+				94CF6B691F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.m */,
+				94CF6B6A1F6CCB6F0075FDF9 /* TZAssetCell.h */,
+				94CF6B6B1F6CCB6F0075FDF9 /* TZAssetCell.m */,
+				94CF6B6C1F6CCB6F0075FDF9 /* TZAssetModel.h */,
+				94CF6B6D1F6CCB6F0075FDF9 /* TZAssetModel.m */,
+				94CF6B6E1F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.h */,
+				94CF6B6F1F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.m */,
+				94CF6B701F6CCB6F0075FDF9 /* TZImageCropManager.h */,
+				94CF6B711F6CCB6F0075FDF9 /* TZImageCropManager.m */,
+				94CF6B721F6CCB6F0075FDF9 /* TZImageManager.h */,
+				94CF6B731F6CCB6F0075FDF9 /* TZImageManager.m */,
+				94CF6B741F6CCB6F0075FDF9 /* TZImagePickerController.bundle */,
+				94CF6B751F6CCB6F0075FDF9 /* TZImagePickerController.h */,
+				94CF6B761F6CCB6F0075FDF9 /* TZImagePickerController.m */,
+				94CF6B771F6CCB6F0075FDF9 /* TZLocationManager.h */,
+				94CF6B781F6CCB6F0075FDF9 /* TZLocationManager.m */,
+				94CF6B791F6CCB6F0075FDF9 /* TZPhotoPickerController.h */,
+				94CF6B7A1F6CCB6F0075FDF9 /* TZPhotoPickerController.m */,
+				94CF6B7B1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.h */,
+				94CF6B7C1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.m */,
+				94CF6B7D1F6CCB6F0075FDF9 /* TZPhotoPreviewController.h */,
+				94CF6B7E1F6CCB6F0075FDF9 /* TZPhotoPreviewController.m */,
+				94CF6B7F1F6CCB6F0075FDF9 /* TZProgressView.h */,
+				94CF6B801F6CCB6F0075FDF9 /* TZProgressView.m */,
+				94CF6B811F6CCB6F0075FDF9 /* TZVideoPlayerController.h */,
+				94CF6B821F6CCB6F0075FDF9 /* TZVideoPlayerController.m */,
+				94CF6B831F6CCB6F0075FDF9 /* UIView+Layout.h */,
+				94CF6B841F6CCB6F0075FDF9 /* UIView+Layout.m */,
+			);
+			path = TZImagePickerController;
+			sourceTree = "<group>";
+		};
+		94CF6B941F6CCB9A0075FDF9 /* 二维码扫描 */ = {
+			isa = PBXGroup;
+			children = (
+				94CF6B951F6CCB9A0075FDF9 /* LXScanningController.h */,
+				94CF6B961F6CCB9A0075FDF9 /* LXScanningController.m */,
+				94CF6B971F6CCB9A0075FDF9 /* ScanSuccessJumpVC.h */,
+				94CF6B981F6CCB9A0075FDF9 /* ScanSuccessJumpVC.m */,
+			);
+			path = "二维码扫描";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -353,7 +516,9 @@
 			files = (
 				9400B3291F6A7A10003A67B7 /* LaunchScreen.storyboard in Resources */,
 				9400B3261F6A7A10003A67B7 /* Assets.xcassets in Resources */,
+				94CF6B8B1F6CCB6F0075FDF9 /* TZImagePickerController.bundle in Resources */,
 				9400B3241F6A7A10003A67B7 /* Main.storyboard in Resources */,
+				94CF6B601F6CCB3A0075FDF9 /* SGQRCode.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,22 +543,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94CF6B991F6CCB9A0075FDF9 /* LXScanningController.m in Sources */,
+				94CF6B9A1F6CCB9A0075FDF9 /* ScanSuccessJumpVC.m in Sources */,
+				94CF6B8C1F6CCB6F0075FDF9 /* TZImagePickerController.m in Sources */,
 				9467560B1F6BD07400915C55 /* LXWaterImageController.m in Sources */,
 				946755F61F6BCC3100915C55 /* LXQRController.m in Sources */,
+				94CF6B8E1F6CCB6F0075FDF9 /* TZPhotoPickerController.m in Sources */,
+				94CF6B621F6CCB3A0075FDF9 /* SGQRCodeGenerateManager.m in Sources */,
+				94CF6B611F6CCB3A0075FDF9 /* SGQRCodeAlbumManager.m in Sources */,
+				94CF6B931F6CCB6F0075FDF9 /* UIView+Layout.m in Sources */,
 				946756051F6BCFF700915C55 /* LXCustomRadiousBorderController.m in Sources */,
 				946755EF1F6BCBD600915C55 /* LXBasicController.m in Sources */,
+				94CF6B901F6CCB6F0075FDF9 /* TZPhotoPreviewController.m in Sources */,
 				9400B3551F6A82DF003A67B7 /* UIColor+Expanded.m in Sources */,
 				9400B3211F6A7A10003A67B7 /* ViewController.m in Sources */,
 				946755FC1F6BCE9900915C55 /* imageQRController.m in Sources */,
+				94CF6B851F6CCB6F0075FDF9 /* NSBundle+TZImagePicker.m in Sources */,
 				946755FF1F6BCFC400915C55 /* LXCircleImgeController.m in Sources */,
 				946755F31F6BCC2200915C55 /* LXPageDealController.m in Sources */,
+				94CF6B881F6CCB6F0075FDF9 /* TZGifPhotoPreviewController.m in Sources */,
+				94CF6B8A1F6CCB6F0075FDF9 /* TZImageManager.m in Sources */,
 				9400B3521F6A82D9003A67B7 /* UIImage+colorImage.m in Sources */,
+				94CF6B8D1F6CCB6F0075FDF9 /* TZLocationManager.m in Sources */,
 				946755EB1F6BA88E00915C55 /* UIView+Frame.m in Sources */,
+				94CF6B651F6CCB3A0075FDF9 /* SGQRCodeScanningView.m in Sources */,
+				94CF6B871F6CCB6F0075FDF9 /* TZAssetModel.m in Sources */,
 				9400B31E1F6A7A10003A67B7 /* AppDelegate.m in Sources */,
+				94CF6B5F1F6CCB3A0075FDF9 /* UIImage+ImageSize.m in Sources */,
 				9400B31B1F6A7A10003A67B7 /* main.m in Sources */,
+				94CF6B861F6CCB6F0075FDF9 /* TZAssetCell.m in Sources */,
+				94CF6B8F1F6CCB6F0075FDF9 /* TZPhotoPreviewCell.m in Sources */,
+				94CF6B661F6CCB3A0075FDF9 /* SGWebView.m in Sources */,
+				94CF6B631F6CCB3A0075FDF9 /* SGQRCodeHelperTool.m in Sources */,
+				94CF6B911F6CCB6F0075FDF9 /* TZProgressView.m in Sources */,
 				9400B34F1F6A7A3E003A67B7 /* UIImage+LXQRCode.m in Sources */,
+				94CF6B891F6CCB6F0075FDF9 /* TZImageCropManager.m in Sources */,
+				94CF6B921F6CCB6F0075FDF9 /* TZVideoPlayerController.m in Sources */,
 				946756081F6BD06800915C55 /* LXCircleBorderController.m in Sources */,
 				946756021F6BCFD800915C55 /* LXCustomRadiousController.m in Sources */,
+				94CF6B641F6CCB3A0075FDF9 /* SGQRCodeScanManager.m in Sources */,
 				946755F91F6BCE8700915C55 /* CommonQTRontroller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
